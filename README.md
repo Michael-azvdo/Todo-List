@@ -64,4 +64,3 @@ Neste projeto foi possível praticar:
 
 Desenvolvido por **Michael Azevedo**
 
-🔗 [Acesse o repositório](https://github.com/Michael-azvdo/todo-list-js)
