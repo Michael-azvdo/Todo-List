@@ -35,7 +35,7 @@ Aplicação web simples desenvolvida com JavaScript puro para gerenciar tarefas 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/Michael-azvdo/todo-list-js.git
+git clone https://github.com/Michael-azvdo/Todo-List
 ```
 
 Acesse a pasta do projeto:
